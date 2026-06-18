@@ -1,3 +1,5 @@
+package SmallScriptDay2;
+
 import java.util.Scanner;
 public class AgeInDays {
     public static void main(String[] args){
